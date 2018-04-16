@@ -1,6 +1,8 @@
 # THIS IS MY FIRST CHROME EXTENSION
 NAME:MKN DArk
-How to install on chrome browser:
+How to install on chrome browser
+Double Click MKN DArK.crx file or open it with chrome to install automatically.
+Or manual installation
 ->OPEN BROWSER AND GOTO ( TOP RIGHT CORNER ) MENU OPTION AND FIND MORE TOOLS OPTION.
 ->NOW CLICK ON EXTENSION.
 ->TOGGLE DEVELOPER MODE (FIND IN TOP RIGHT CORNER)
